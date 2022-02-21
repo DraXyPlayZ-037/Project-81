@@ -1,0 +1,12 @@
+.bg {
+    background-image: url("istockphoto-501546466-612x612.jpg");
+}
+
+#mycanvas {
+    border: 3px dashed black;
+    background-color: lightsteelblue;
+}
+
+#o {
+    color: lightsalmon;
+}
